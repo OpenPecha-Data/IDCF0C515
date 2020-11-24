@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG21830
   title: སྐད་བརྡ་རིག་པའི་སྤྱི་བཤད།
-  volume: ''
+  volume:
+    5f155a3ba6534802a526a0dd3510da67:
+      image_group_id: I1KG21935
+      title: Volume 1 of skad brda rig pa'i spyi bshad/
+      volume_number: 1
+      total_pages: 354
   author: ''
+ebook_metadata:
+  title: སྐད་བརྡ་རིག་པའི་སྤྱི་བཤད།
+  author: ''
+  sku: P008030
+  cover: cover.jpg
+  layers:
+  - pagination
