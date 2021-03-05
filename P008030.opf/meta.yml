@@ -1,15 +1,16 @@
-id: opecha:P008030
+id: P008030
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG21830
   title: སྐད་བརྡ་རིག་པའི་སྤྱི་བཤད།
-  volume:
+  author: ''
+  volumes:
     5f155a3ba6534802a526a0dd3510da67:
       image_group_id: I1KG21935
       title: Volume 1 of skad brda rig pa'i spyi bshad/
       volume_number: 1
       total_pages: 354
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: སྐད་བརྡ་རིག་པའི་སྤྱི་བཤད།
   author: ''
