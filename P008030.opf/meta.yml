@@ -5,11 +5,12 @@ source_metadata:
   title: སྐད་བརྡ་རིག་པའི་སྤྱི་བཤད།
   author: ''
   volumes:
-    7eb2bdce2be54895b4e814f1b5feff94:
+    5f155a3ba6534802a526a0dd3510da67:
       image_group_id: I1KG21935
-      title: ''
+      title: Volume 1 of skad brda rig pa'i spyi bshad/
       volume_number: 1
       total_pages: 354
+      base_file: v001.txt
 ebook_metadata:
   title: སྐད་བརྡ་རིག་པའི་སྤྱི་བཤད།
   author: ''
