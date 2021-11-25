@@ -1,5 +1,7 @@
 id: P008030
 initial_creation_type: ocr
+created_at: 25/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W1KG21830
   title: སྐད་བརྡ་རིག་པའི་སྤྱི་བཤད།
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 354
       base_file: v001.txt
-ebook_metadata:
-  title: སྐད་བརྡ་རིག་པའི་སྤྱི་བཤད།
-  author: ''
-  sku: P008030
-  cover: cover.jpg
-  layers:
-  - pagination
