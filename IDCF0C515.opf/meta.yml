@@ -15,8 +15,8 @@ default_language: bo
 source: https://library.bdrc.io
 source_file: null
 initial_creation_type: ocr
-imported: '2022-08-27T07:03:05.623149+00:00'
-last_modified: 2022-08-27 15:03:48.181266
+imported: '2022-08-31T12:49:17.412272+00:00'
+last_modified: 2022-08-31 20:49:35.500105
 parser: https://github.com/OpenPecha/Toolkit/blob/7f57883d84bc10351527a49ee6ce970ace404e50/openpecha/formatters/google_ocr.py
 source_metadata:
   id: http://purl.bdrc.io/resource/W1KG21830
